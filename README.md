@@ -79,5 +79,5 @@ npm install
 4. Once both are running, check that the chatbot is online in your Discord server.
 5. Type a slash command in the chat, such as `/ping`, to activate the bot and trigger the command.
 6. The following slash commands can be used in this chatbot:
-<img width="209" alt="image" src="https://user-images.githubusercontent.com/78012131/222347718-95582c28-e4c2-47cc-8117-87bdf550f009.png">
+<img width="1274" alt="image" src="https://user-images.githubusercontent.com/112741645/224349544-5f8cbe78-cd1d-44a3-b31b-238923b6f369.png">
 
